@@ -267,7 +267,7 @@
       lede =
         "You don’t need a transformation. You need one decision settled in plain language — usually the hottest area below — with a next step your team can take.";
       auditNote =
-        "The 45-minute Operations Audit is the right next step. We’ll confirm what’s knowable from data you already have, then scope a fixed-price Answer or tell you it’s not a fit.";
+        "The 45-minute Fit Call is the right next step. We’ll confirm what’s knowable from data you already have, then scope a fixed-price Operations Intelligence Audit or tell you it’s not a fit.";
     } else if (recurrence >= 2 || delay >= 2) {
       eyebrow = "Leak pressure: compounding";
       title = "This question is costing you every month you wait.";
@@ -286,7 +286,7 @@
       lede =
         "Start by settling the hottest area. If that same decision comes back next month, that’s the signal to build a system your team owns instead of re-buying the analysis.";
       auditNote =
-        "The Operations Audit will pick the first paid step — usually a fixed-price Answer — and leave System as an option only if the first project earns it.";
+        "The Fit Call will pick the first paid step — usually a fixed-price Operations Intelligence Audit — and leave System as an option only if the first project earns it.";
     }
 
     if (hot.length === 0 && total > 4) {

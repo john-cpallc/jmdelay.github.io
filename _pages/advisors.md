@@ -1,24 +1,34 @@
 ---
 permalink: /advisors/
 title: "For Advisors & Partners"
-excerpt: "For fractional CFOs, EOS implementers, M&A advisors, CPAs, and healthcare ops consultants whose clients sit on trapped margin."
+excerpt: "For fractional CFOs, EOS implementers, M&A advisors, CPAs, turnaround consultants, and healthcare ops consultants whose clients sit on trapped margin."
 layout: single
 author_profile: true
 ---
 
-## Your clients sit on trapped margin. I find it and build the system to act on it.
+## Call John when an operator suspects money is leaking but cannot find where — or when margins, staffing costs, or operational control are slipping.
 
-If you advise owner-operators—fractional CFO, EOS implementer, M&A advisor, CPA, healthcare operations consultant—you've seen the pattern: real businesses with real data, but no one turning it into decisions that protect margin, cash flow, or EBITDA.
+If you advise owner-operators — fractional CFO, EOS implementer, M&A advisor, CPA, turnaround consultant, healthcare operations consultant — you've seen the pattern: real businesses with real data, but no one turning it into decisions that protect margin, cash flow, or EBITDA.
 
-That's what Changepoint does. I'm an **operations intelligence partner**—not a dashboard shop, not a vague consultant, not a software reseller. You don't need to explain analytics. You only need to recognize the situation.
+That's what Changepoint does. I'm an **operations intelligence partner** — not a dashboard shop, not an AI consultancy, not a GIS vendor, not a software reseller. You don't need to explain analytics. You only need to recognize the situation.
 
 ---
 
-## Call Changepoint when
+## Five trigger messages
+
+Arm yourself with these. When one shows up, introduce Changepoint:
+
+1. **Margin pressure** — declining profitability, unexplained leakage
+2. **Operational chaos** — growth outrunning control
+3. **Growth complexity** — multi-site / multi-service visibility breaks
+4. **Turnaround / distress** — cost reduction, restructuring, cash pressure
+5. **Reporting bottlenecks** — leadership lacks a trusted view of where money and capacity are stuck
+
+### Call Changepoint when
 
 - Margins are declining and nobody can explain why
 - A business is growing but losing control of operations
-- A hospital, clinic, or service organization is under financial pressure
+- A hospital, clinic, home-health, or service organization is under financial pressure
 - Leadership suspects waste but cannot locate it
 - Departments disagree about the numbers
 - Staffing costs are rising faster than revenue
@@ -30,17 +40,18 @@ That's what Changepoint does. I'm an **operations intelligence partner**—not a
 ## What I bring to your clients
 
 - **Scoped, plain-English work** tied to a real business decision and believable ROI
-- **Answer / System / Engine** engagements—fixed scope, fixed outcome, no open-ended retainers
-- **No black boxes**—logic, code, and documentation the client owns
+- **Operations Intelligence Audit** as the usual first paid step — then Answer / System / Engine — fixed scope, fixed outcome, no open-ended retainers
+- **No black boxes** — logic, code, and documentation the client owns
 - **Healthcare depth** with methodology that travels to other ops-driven SMBs
-- **No competition with your relationship**—I complement advisory work; I don't replace it
+- **No competition with your relationship** — I complement advisory work; I don't replace it
+- **Partner / white-label delivery** welcome — joint or behind-the-scenes work with EOS, CFO, and ops advisors when communication and economics are clear
 
 ---
 
 ## How referrals work
 
-1. **Introduce the client** — email intro, a link to the [Margin Leak Check](/leak-check/) (eight questions, no meeting), or a link to the [Operations Audit](/audit/)
-2. **45-minute audit** *(free)* — I diagnose operating pressure, findability of waste, and feasibility; recommend Answer, System, Engine, or no fit
+1. **Introduce the client** — email intro, a link to the [Margin Leak Check](/leak-check/) (eight questions, no meeting), or a link to the [Fit Call](/audit/)
+2. **45-minute Fit Call** *(free)* — I diagnose operating pressure, findability of waste, and feasibility; recommend Operations Intelligence Audit, System, Engine, or no fit
 3. **Scoped proposal** — fixed cost and outcome before any work starts
 4. **Delivery** — client gets logic, code, and a walkthrough they can run internally
 
@@ -59,10 +70,10 @@ You stay in the loop as much or as little as the client prefers. I'm happy to co
 
 ## Get in touch
 
-If you have a client who fits—or want to understand how this works before making an intro—reach out directly.
+If you have a client who fits — or want to understand how this works before making an intro — reach out directly.
 
 **[john@changepointdata.com](mailto:john@changepointdata.com)** · [LinkedIn](https://www.linkedin.com/in/john-delay-7741b7124)
 
 [See services](/services/){: .btn .btn--inverse}
 
-[Book an audit for a client](/audit/){: .btn .btn--primary .btn--large}
+[Book a Fit Call for a client](/audit/){: .btn .btn--primary .btn--large}

@@ -1,7 +1,7 @@
 # Site Settings
 title: "Changepoint Analytics LLC"
 name: "Changepoint Analytics LLC"
-description: "Find operational waste and recover margin for healthcare and regulated SMBs—operations intelligence for staffing, pricing, and performance."
+description: "Find operational waste and recover margin for healthcare operators—staffing, pricing, and performance decisions without hiring a data team."
 url: "https://changepointdata.com"
 baseurl: ""
 repository: "jmdelay/jmdelay.github.io"
@@ -20,7 +20,7 @@ plugins:
 author:
   name: "John DeLay"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Operations intelligence partner — find operational waste, recover margin. Healthcare and regulated SMBs."
+  bio: "Operations intelligence partner for healthcare and regulated SMBs — find waste, recover margin, act on staffing, pricing, and performance."
   location: "Birmingham, AL"
   email: "john@changepointdata.com"
   links:

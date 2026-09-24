@@ -7,8 +7,8 @@ author_profile: false
 toc: false
 ---
 
-A self-serve diagnostic for independent clinics and health-services operators. No email required. Messy data is normal.
+A self-serve diagnostic for independent clinics, home health / hospice / home care / mobile operators, and health-services operators. No email required. Messy data is normal.
 
-This is not a substitute for the [Operations Audit](/audit/). It tells you whether that conversation is worth having.
+This is not a substitute for the [Fit Call](/audit/). It tells you whether that conversation is worth having.
 
 {% include leak-check.html %}
