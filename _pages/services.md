@@ -1,109 +1,64 @@
 ---
 permalink: /services/
 title: "Services"
-excerpt: "Operations Intelligence Audit first — then Answer, System, or Engine. Fixed-scope work that finds operational waste and turns it into staffing, pricing, and performance decisions."
+excerpt: "Connect messy operational data to cash, margin, and capacity decisions — then build the smallest reliable system needed to act."
 layout: single
 author_profile: true
 ---
 
-Changepoint Analytics is an operations intelligence partner for healthcare and regulated SMBs. We don't sell software, strategy decks, AI consulting, dashboards, or GIS. We find operational waste, recover margin, and turn staffing, pricing, and performance problems into systems that keep producing clarity.
+I help owners and financial leaders connect messy operational data to cash, margin, and capacity decisions — then build the smallest reliable system needed to act.
+
+No software platform. No strategy deck. Not an AI consultancy or dashboard shop. Operational ROI on the surface; analytics under the hood.
 
 ---
 
-## Operations Intelligence Audit — primary product
+## How we start
 
-*The one highly repeatable assessment. This is the commercial priority and the usual first paid engagement.*
+**Free Fit Call** — A short, no-commitment conversation about the pressure you’re under, what’s knowable from data you already have, and whether the ROI path is real.
 
-**Who it’s for:** Independent healthcare and health-services operators — clinics, outpatient groups, home health, hospice, home care, mobile care, multi-location behavioral health, and similar regulated operators — who feel margin, staffing, or performance pressure and need a defensible next move.
+**First scoped diagnostic** — When there’s a findable leak and a believable next move, the usual first paid step is a fixed-scope assessment: highest-value pressure, feasibility from existing data, plain-language findings, and a recommendation — focused follow-on, durable system, or honest “not a fit.”
 
-**What you get (typically 2–4 weeks, fixed scope / fixed price, maps to Answer):**
+Typical first engagements land in a directional **~$3k–$5k** range, depending on decision complexity. You’ll get a fixed cost and outcome before any paid work starts.
 
-- Highest-value operational pressure identified
-- Data feasibility from what you already have
-- Baseline and plain-language findings
-- Recommendation: focused pilot, System, Engine — or honest “not a fit”
+[Book a free Fit Call](/audit/){: .btn .btn--primary}
 
-Typical range starts around **~$3k–$5k**, depending on decision complexity.
-
-[Book a free Fit Call](/audit/){: .btn .btn--primary} to confirm fit before any paid work.
+Not ready for a meeting? Take the [Margin Leak Check](/leak-check/) first.
 
 ---
 
-## Ways to Work Together
+## How work can grow
 
-Every engagement still maps to one of three shapes.
+Most relationships stay simple:
 
-### Answer — Fast Clarity on One Question
+- **One-time clarity** — Settle one high-stakes question: where capacity is wasted, why cash is lagging, which locations or services underprice, which numbers leadership can trust.
+- **Durable workflow** — When the same decision repeats, build a lightweight tool or process your team owns — documentation and logic included, no black box.
+- **Scoped ongoing system** — When delay compounds monthly, add a defined refresh, review, and exception path — continuity without pseudo-employment.
 
-*Ideal when you have one high-stakes operating or financial question and need a decision path quickly. The Operations Intelligence Audit is the named Answer product.*
-
-Typical questions:
-
-- Where is staffing capacity wasted?
-- Why are collections slowing?
-- Which referral sources actually produce margin?
-- Which services or locations are underpricing?
-- Which sites, payers, or providers actually perform?
-- Which home-health or multi-site service lines earn their keep vs. drain capacity?
-
-You get a one-time analysis, a plain-language explanation, a recommendation, and a clear next step — not a strategy deck.
+We expand only when the first project earns it.
 
 ---
 
-### System — Build Something That Lasts
+## Good fit / not a fit
 
-*Best when the same decision repeats month after month and spreadsheet chaos is burning operator time.*
+**Good fit when** there’s an accountable buyer, a real operating or financial decision, enough economic surface area that improvement matters, and access to move in weeks — not months of theater.
 
-Typical builds:
+**Not a fit when** there’s only curiosity, vague success criteria, cosmetic reporting with no action path, or structural blockers that prevent scope, data access, or payment.
 
-- Staffing / capacity prioritization workflows
-- Pricing support and margin-monitoring logic
-- Referral or source performance tied to action
-- Operational exception reporting with clear thresholds
-- Location or provider performance review workflows
+Industry is open. Healthcare and regulated operators are natural terrain from experience; strong problems elsewhere are welcome when the buyer, economics, and handoff are clean.
 
-You get a repeatable internal tool or workflow, documentation, and logic your team owns — so leadership isn't revisiting the same questions every quarter.
+Messy data is normal. Cleaning and joining what you already have (Excel, EHR, practice management, CRM, accounting tools, and similar) is part of scoping — not a reason to wait.
 
-Healthcare operations work often lands here: capacity and scheduling, revenue-cycle visibility, claims and EHR-backed performance views, and decision tools that hold up in regulated environments when the project requires it.
+Most work is remote. In-person helps when stakeholder alignment or process context needs it. You keep the logic and tools at close.
 
 ---
 
-### Engine — Ongoing Decision Support
+## Examples of the decision pattern
 
-*For recurring high-value decisions where the cost of delay compounds monthly.*
-
-Typical engines:
-
-- Recurring capacity / staffing optimization
-- Monthly pricing or margin decision cycles
-- Revenue-cycle monitoring with exception routing
-- Location or provider performance monitoring
-
-This is a defined ongoing system — pipeline from data to action — not open-ended advisory and not a full-time hire in disguise. Continuity stays scoped and asynchronous.
+[Case studies](/blog/) show where margin leaks, trapped cash, or operational waste show up — and what an operator could do about it.
 
 ---
 
-## What We Optimize For
-
-Visible offer: operational ROI — lower labor waste, better capacity use, tighter collections, cleaner pricing discipline, protected margin.
-
-Primary focus: **operational efficiency and margin recovery** for independent clinics, home health / hospice / home care / mobile, multi-location behavioral health, and similar health services operators.
-
-Secondary focus: **pricing and margin analytics** for clinics and other owner-led service businesses.
-
-If the work does not clearly improve a staffing, pricing, or performance decision — or reduce waste — it is probably not the right engagement. We decline piecemeal “data person” scraps that don’t map to a trigger and an offer shape.
-
----
-
-## I’m not sure what I need
-
-That’s normal. Messy data is also normal. Clients often arrive asking for AI or dashboards; discovery reframes to the operating decision and trapped-profit question. Take the [Margin Leak Check](/leak-check/) if you want a directional read without a meeting. If the readout says there is a findable leak, the [Fit Call](/audit/) is the next step — and I will still say no if the ROI path isn’t believable.
-
----
-
-## Start with a Free Fit Call
-
-A short, no-commitment conversation about where margin or operational control is slipping — and whether an Operations Intelligence Audit, System, Engine, or no fit is the right next step.
+## Start here
 
 [Take the Margin Leak Check](/leak-check/){: .btn .btn--inverse}
 

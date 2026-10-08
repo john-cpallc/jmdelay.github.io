@@ -7,11 +7,5 @@ main:
     url: /leak-check/
   - title: "Fit Call"
     url: /audit/
-  - title: "Case Studies"
-    url: /blog/
   - title: "Advisors"
     url: /advisors/
-  - title: "FAQ"
-    url: /faq/
-  - title: "Contact"
-    url: /contact/

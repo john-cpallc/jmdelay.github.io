@@ -1,76 +1,64 @@
 ---
 permalink: /advisors/
 title: "For Advisors & Partners"
-excerpt: "For fractional CFOs, EOS implementers, M&A advisors, CPAs, turnaround consultants, and healthcare ops consultants whose clients sit on trapped margin."
+excerpt: "For fractional CFOs, EOS implementers, M&A advisors, CPAs, and ops consultants whose clients sit on trapped margin."
 layout: single
 author_profile: true
 ---
 
-## Call John when an operator suspects money is leaking but cannot find where — or when margins, staffing costs, or operational control are slipping.
+## Call when leadership suspects money is leaking but cannot find where — or when margins, staffing, cash timing, or operating control are slipping.
 
-If you advise owner-operators — fractional CFO, EOS implementer, M&A advisor, CPA, turnaround consultant, healthcare operations consultant — you've seen the pattern: real businesses with real data, but no one turning it into decisions that protect margin, cash flow, or EBITDA.
+If you advise owner-operators — fractional CFO, EOS implementer, M&A advisor, searcher or post-acquisition CEO, CPA, turnaround consultant, ops consultant, or PE portfolio support with a clear specialist scope — you’ve seen the pattern: real businesses with real data, but no one turning it into decisions that protect cash, margin, or capacity.
 
-That's what Changepoint does. I'm an **operations intelligence partner** — not a dashboard shop, not an AI consultancy, not a GIS vendor, not a software reseller. You don't need to explain analytics. You only need to recognize the situation.
+That’s what Changepoint does. I’m an **operations intelligence partner**. You don’t need to explain analytics. You only need to recognize the situation.
 
 ---
 
-## Five trigger messages
-
-Arm yourself with these. When one shows up, introduce Changepoint:
+## Trigger situations
 
 1. **Margin pressure** — declining profitability, unexplained leakage
 2. **Operational chaos** — growth outrunning control
-3. **Growth complexity** — multi-site / multi-service visibility breaks
-4. **Turnaround / distress** — cost reduction, restructuring, cash pressure
-5. **Reporting bottlenecks** — leadership lacks a trusted view of where money and capacity are stuck
-
-### Call Changepoint when
-
-- Margins are declining and nobody can explain why
-- A business is growing but losing control of operations
-- A hospital, clinic, home-health, or service organization is under financial pressure
-- Leadership suspects waste but cannot locate it
-- Departments disagree about the numbers
-- Staffing costs are rising faster than revenue
-- A turnaround, restructuring, or cost-reduction effort is beginning
-- A buyer, lender, investor, or board is demanding operational clarity
+3. **Cash / collections opacity** — activity and realization don’t reconcile cleanly
+4. **Turnaround / ownership change** — cost pressure or post-close visibility gaps
+5. **Reporting that blocks action** — leadership lacks a trusted view of where money or capacity is stuck
 
 ---
 
-## What I bring to your clients
+## Complementary, not competitive
 
-- **Scoped, plain-English work** tied to a real business decision and believable ROI
-- **Operations Intelligence Audit** as the usual first paid step — then Answer / System / Engine — fixed scope, fixed outcome, no open-ended retainers
-- **No black boxes** — logic, code, and documentation the client owns
-- **Healthcare depth** with methodology that travels to other ops-driven SMBs
-- **No competition with your relationship** — I complement advisory work; I don't replace it
-- **Partner / white-label delivery** welcome — joint or behind-the-scenes work with EOS, CFO, and ops advisors when communication and economics are clear
+I don’t replace bookkeeping, controller work, CFO leadership, or EOS facilitation. The useful role is usually underneath that process:
+
+- make scorecard and KPI inputs reliable and actionable
+- reconcile operational activity with financial realization
+- stabilize reporting after ownership change
+- connect forecast drivers to consistent operating inputs
+- turn recurring fights about “the numbers” into a maintained definition and workflow
+
+Partner and white-label delivery are welcome — joint or behind-the-scenes work when communication, economics, and handoff are clear.
 
 ---
 
 ## How referrals work
 
-1. **Introduce the client** — email intro, a link to the [Margin Leak Check](/leak-check/) (eight questions, no meeting), or a link to the [Fit Call](/audit/)
-2. **45-minute Fit Call** *(free)* — I diagnose operating pressure, findability of waste, and feasibility; recommend Operations Intelligence Audit, System, Engine, or no fit
+1. **Introduce the client** — email intro, a link to the [Margin Leak Check](/leak-check/), or a link to the [Fit Call](/audit/)
+2. **45-minute Fit Call** *(free)* — diagnose pressure, findability, and feasibility; recommend a first scoped diagnostic, a durable system, ongoing support, or no fit
 3. **Scoped proposal** — fixed cost and outcome before any work starts
-4. **Delivery** — client gets logic, code, and a walkthrough they can run internally
+4. **Delivery** — client gets logic, documentation, and a walkthrough they can run internally
 
-You stay in the loop as much or as little as the client prefers. I'm happy to coordinate on scope and timing upfront so there are no surprises for anyone.
+You stay in the loop as much or as little as the client prefers.
 
 ---
 
-## Why refer here instead of a generic analytics firm
+## Why refer here
 
-- **Efficiency-first positioning** — operational ROI on the surface, analytics under the hood
-- **Intentionally small practice** — capped concurrent clients, no pseudo-employment retainers
-- **Honest fit filter** — if the ROI isn't there, I say no; that protects your credibility too
+- **Efficiency-first** — operational ROI on the surface, analytics under the hood
+- **Intentionally small** — no pseudo-employment retainers
+- **Honest fit filter** — if the ROI isn’t there, I say no; that protects your credibility too
 - **Execution, not advice** — deliverables the client uses, not slide decks
 
 ---
 
 ## Get in touch
-
-If you have a client who fits — or want to understand how this works before making an intro — reach out directly.
 
 **[john@changepointdata.com](mailto:john@changepointdata.com)** · [LinkedIn](https://www.linkedin.com/in/john-delay-7741b7124)
 

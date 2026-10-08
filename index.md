@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-excerpt: "Find operational waste and recover margin for healthcare and regulated SMBs — without hiring a data team."
+excerpt: "I help owners and financial leaders connect messy operational data to cash, margin, and capacity decisions — then build the smallest reliable system needed to act."
 ---
 
 <div class="brand-hero">
@@ -27,14 +27,14 @@ excerpt: "Find operational waste and recover margin for healthcare and regulated
     <text class="cp-mark" x="308" y="96">Changepoint</text>
     <text class="cp-sub" x="309" y="116">ANALYTICS</text>
   </svg>
-  <p class="brand-tagline">Find operational waste. Recover margin. Act on staffing, pricing, and performance.</p>
+  <p class="brand-tagline">Connect messy operational data to cash, margin, and capacity decisions.</p>
 </div>
 
 <div class="home-intro">
   <img class="home-intro__photo" src="{{ '/assets/images/bio-photo.jpg' | relative_url }}" alt="John DeLay, founder of Changepoint Analytics" width="590" height="944">
   <div class="home-intro__copy">
     <p class="home-intro__name">I’m John DeLay.</p>
-    <p>I help independent healthcare operators — clinics, home health, hospice, home care, mobile, and multi-location behavioral health — find where margin leaks and hand you a system your team can run. No software platform. No strategy deck. Not an AI, dashboard, or GIS consultancy.</p>
+    <p>I help owners and financial leaders find where money or capacity is leaking — then build the smallest reliable system your team can run. No software platform. No strategy deck. Not an AI consultancy or dashboard shop.</p>
     <p class="home-intro__actions">
       <a class="btn btn--inverse" href="{{ '/leak-check/' | relative_url }}">Take the Margin Leak Check</a>
       <a class="btn btn--primary" href="{{ '/audit/' | relative_url }}">Book a free Fit Call</a>
@@ -49,22 +49,22 @@ excerpt: "Find operational waste and recover margin for healthcare and regulated
     <p>Margins are slipping and nobody can explain why — or where the money is going.</p>
   </div>
   <div class="pain-card">
-    <p>You’re growing, but staffing, scheduling, and day-to-day control are getting messier, not clearer.</p>
+    <p>You’re growing, but day-to-day control is getting messier, not clearer.</p>
   </div>
   <div class="pain-card">
-    <p>Two sites or service lines look equally busy. You cannot tell which one actually makes margin.</p>
+    <p>Cash timing or collections feel opaque — activity and realization don’t line up.</p>
   </div>
   <div class="pain-card">
     <p>Reports describe last month. They never say what to do next — and leadership argues about the numbers.</p>
   </div>
   <div class="pain-card">
-    <p>A turnaround or cost-reduction effort is starting, and you need operational clarity fast.</p>
+    <p>A turnaround, ownership change, or cost-reduction effort needs operational clarity fast.</p>
   </div>
 </div>
 
 <div class="outcome-row">
   <div class="outcome-item"><strong>Protect margin</strong><span>you can already measure</span></div>
-  <div class="outcome-item"><strong>Staff with evidence</strong><span>not last year’s template</span></div>
+  <div class="outcome-item"><strong>Act on capacity</strong><span>with evidence, not templates</span></div>
   <div class="outcome-item"><strong>Stop arguing</strong><span>about the numbers</span></div>
 </div>
 
@@ -79,41 +79,27 @@ excerpt: "Find operational waste and recover margin for healthcare and regulated
   <div class="proof-item"><strong>MSPH, Biostatistics</strong><span>University of Alabama at Birmingham</span></div>
   <div class="proof-item"><strong>Health tech + CMS</strong><span>Prior auth, Medicare quality, claims, EHR</span></div>
   <div class="proof-item"><strong>Regulated environments</strong><span>HIPAA, IRB, bank model validation</span></div>
-  <div class="proof-item"><strong>No data-team hire</strong><span>Scoped to one staffing, pricing, or performance decision</span></div>
+  <div class="proof-item"><strong>No data-team hire</strong><span>Scoped to a real cash, margin, or capacity decision</span></div>
 </div>
 
 ---
 
-## Three ways to work
-
-**Operations Intelligence Audit — the first paid step** — A fixed-scope assessment that finds the highest-value operational pressure, checks what’s knowable from data you already have, and leaves you with findings plus a clear next step. Maps to Answer.
-
-**Answer — fast clarity on one question** — Where is staffing capacity wasted? Why are collections slowing? Which locations or services underprice? One decision, plain-language recommendation, clear next step.
-
-**System — a tool that lasts** — Repeatable workflows for capacity, pricing, margin, or performance so the same question doesn't come back every month — owned by your team, not locked in a black box.
-
-**Engine — ongoing decision support** — Recurring monitoring and optimization for staffing, pricing, or performance when the cost of delay compounds monthly — scoped continuity, not open-ended advisory.
-
-[See all services](/services/){: .btn .btn--inverse}
-
----
-
-## How engagements work
-
-Most relationships follow the same pattern:
+## How we work
 
 1. **Margin Leak Check** *(optional, three minutes)* — A self-serve readout of where pressure is concentrated. No email, no calendar.
-2. **Free Operations Fit Call** — A short, no-commitment look at the operating pressure, whether waste is findable, and whether the ROI path is real. We'll tell you honestly whether we can help.
-3. **Operations Intelligence Audit** — Fixed-price clarity on one decision — the primary first paid product after the Fit Call (Answer shape).
-4. **System or Engine** — When the same decision repeats, we build a lightweight system or ongoing engine. You know the scope and cost before we start.
+2. **Free Fit Call** — A short look at the operating pressure, whether waste is findable, and whether the ROI path is real. Honest no-fit when it isn’t.
+3. **First scoped diagnostic** — Fixed-scope clarity on one decision, with findings and a clear next step.
+4. **Durable system when it earns it** — If the same decision repeats, we build a lightweight workflow or ongoing engine your team owns.
 
-We're not a large agency and we're not pitching a six-figure transformation. Most engagements start small and expand only if the first project delivers.
+We’re not a large agency and we’re not pitching a six-figure transformation. Most engagements start small and expand only if the first project delivers.
+
+[See services](/services/){: .btn .btn--inverse}
 
 ---
 
 ## Not sure yet? Start without a meeting.
 
-The Leak Check is eight questions. You get a plain-language readout — Answer, System, Engine, or no engagement — and you can book the Fit Call from there if it's warranted.
+The Leak Check is eight questions. You get a plain-language readout — and you can book the Fit Call from there if it’s warranted.
 
 [Take the Margin Leak Check](/leak-check/){: .btn .btn--inverse .btn--large}
 

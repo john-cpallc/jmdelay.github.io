@@ -7,11 +7,11 @@
       id: "staffing",
       area: "Staffing & capacity",
       prompt:
-        "When you look at last month’s labor cost, how clearly can you say which sessions, providers, or locations were over- or under-staffed?",
+        "When you look at last month’s labor cost, how clearly can you say which teams, shifts, or locations were over- or under-staffed?",
       options: [
         {
           score: 0,
-          label: "We can point to specific sessions and the dollar impact.",
+          label: "We can point to specific places and the dollar impact.",
         },
         {
           score: 1,
@@ -25,16 +25,16 @@
     },
     {
       id: "noshows",
-      area: "No-shows & unused capacity",
-      prompt: "How do you treat missed appointments today?",
+      area: "Unused capacity",
+      prompt: "How do you treat wasted capacity today — missed demand, idle time, or slots that don’t convert?",
       options: [
         {
           score: 0,
-          label: "We know which visit types and slots leak the most revenue.",
+          label: "We know which patterns leak the most revenue or time.",
         },
         {
           score: 1,
-          label: "We track a no-show rate, and that’s about it.",
+          label: "We track a rate or utilization number, and that’s about it.",
         },
         {
           score: 2,
@@ -45,11 +45,11 @@
     {
       id: "collections",
       area: "Collections & cash",
-      prompt: "When collections slow down, what happens next?",
+      prompt: "When cash timing slows down, what happens next?",
       options: [
         {
           score: 0,
-          label: "We can see which payers, visit types, or sites are driving the lag.",
+          label: "We can see which customers, channels, or sites are driving the lag.",
         },
         {
           score: 1,
@@ -63,20 +63,20 @@
     },
     {
       id: "pricing",
-      area: "Pricing & service margin",
+      area: "Pricing & margin",
       prompt:
-        "Can you name which services or locations are underpriced relative to cost and payer mix?",
+        "Can you name which services, products, or locations are underpriced relative to cost?",
       options: [
         { score: 0, label: "Yes — with current numbers." },
-        { score: 1, label: "We have a fee schedule and a gut feel." },
+        { score: 1, label: "We have a price list and a gut feel." },
         { score: 2, label: "Not with any confidence." },
       ],
     },
     {
       id: "performance",
-      area: "Site & provider performance",
+      area: "Location & team performance",
       prompt:
-        "If two locations (or two providers) look equally busy, can you tell which one actually makes money?",
+        "If two locations (or two teams) look equally busy, can you tell which one actually makes money?",
       options: [
         { score: 0, label: "Yes." },
         { score: 1, label: "Sometimes, after a scramble in Excel." },
@@ -103,7 +103,7 @@
       id: "recurrence",
       area: "How often it comes back",
       prompt:
-        "The staffing, pricing, or performance question you’re living with:",
+        "The staffing, pricing, cash, or performance question you’re living with:",
       options: [
         { score: 0, label: "We settled it, and it stays settled." },
         {
@@ -131,15 +131,15 @@
 
   var AREA_COPY = {
     staffing:
-      "Labor is moving without a session-level explanation. The first job is to attach dollars to over- and under-capacity — not to hire another analyst.",
+      "Labor is moving without a clear explanation. The first job is to attach dollars to over- and under-capacity — not to hire another analyst.",
     noshows:
-      "A single no-show rate hides which misses actually cost you. Visit type, payer, and lead time usually concentrate the leakage.",
+      "A single utilization number hides which misses actually cost you. Patterns usually concentrate the leakage.",
     collections:
-      "Cash lag that shows up as a surprise is a routing problem. The useful output is which payers, sites, or visit types to work first.",
+      "Cash lag that shows up as a surprise is a routing problem. The useful output is which cohorts or sites to work first.",
     pricing:
-      "Fee schedules without cost and payer mix are a guess. Underpricing often sits in a handful of services or locations.",
+      "Price lists without cost context are a guess. Underpricing often sits in a handful of services, products, or locations.",
     performance:
-      "Busy is not margin. If sites or providers can’t be compared on contribution, staffing and growth decisions are flying blind.",
+      "Busy is not margin. If sites or teams can’t be compared on contribution, staffing and growth decisions are flying blind.",
     reports:
       "Descriptive reports keep the argument going. You need a next action with a number attached.",
   };
@@ -255,38 +255,38 @@
     if (total <= 4) {
       eyebrow = "Leak pressure: low";
       title = "You may not need an engagement.";
-      shape = "No engagement — unless one question is still loud";
+      shape = "Next step: no engagement — unless one question is still loud";
       lede =
-        "From these answers, the operating picture looks relatively settled. If one specific decision is still expensive to get wrong, a narrow Answer can still be worth it. Otherwise, don’t hire this work.";
+        "From these answers, the operating picture looks relatively settled. If one specific decision is still expensive to get wrong, a narrow one-time clarity project can still be worth it. Otherwise, don’t hire this work.";
       auditNote =
-        "The audit is free, and I will say no if there isn’t a believable ROI path. Only book it if you have one concrete question in mind.";
+        "The Fit Call is free, and I will say no if there isn’t a believable ROI path. Only book it if you have one concrete question in mind.";
     } else if (total <= 9) {
       eyebrow = "Leak pressure: concentrated";
       title = "There is a findable leak in a handful of places.";
-      shape = "Likely shape: Answer";
+      shape = "Likely next step: one-time clarity";
       lede =
         "You don’t need a transformation. You need one decision settled in plain language — usually the hottest area below — with a next step your team can take.";
       auditNote =
-        "The 45-minute Fit Call is the right next step. We’ll confirm what’s knowable from data you already have, then scope a fixed-price Operations Intelligence Audit or tell you it’s not a fit.";
+        "The 45-minute Fit Call is the right next step. We’ll confirm what’s knowable from data you already have, then scope a fixed-price first diagnostic or tell you it’s not a fit.";
     } else if (recurrence >= 2 || delay >= 2) {
       eyebrow = "Leak pressure: compounding";
       title = "This question is costing you every month you wait.";
       shape =
         delay >= 2 && recurrence >= 2
-          ? "Likely shape: System, with Engine on the table"
-          : "Likely shape: System";
+          ? "Likely next step: durable workflow, with ongoing system on the table"
+          : "Likely next step: durable workflow";
       lede =
-        "The same staffing, pricing, or performance argument is coming back. A one-off readout helps once; a lightweight system stops the relitigation. If delay is already hitting cash or a board conversation, ongoing monitoring may belong in scope.";
+        "The same cash, margin, or capacity argument is coming back. A one-off readout helps once; a lightweight system stops the relitigation. If delay is already hitting cash or a board conversation, ongoing monitoring may belong in scope.";
       auditNote =
-        "Book the audit. We’ll diagnose pressure, findability, and ROI, then recommend System, Engine, or — if the ROI isn’t there — no engagement.";
+        "Book the Fit Call. We’ll diagnose pressure, findability, and ROI, then recommend a durable workflow, scoped ongoing support, or — if the ROI isn’t there — no engagement.";
     } else {
       eyebrow = "Leak pressure: elevated";
       title = "The leak is real, and it will keep showing up.";
-      shape = "Likely shape: Answer first, System if it repeats";
+      shape = "Likely next step: one-time clarity first, durable workflow if it repeats";
       lede =
         "Start by settling the hottest area. If that same decision comes back next month, that’s the signal to build a system your team owns instead of re-buying the analysis.";
       auditNote =
-        "The Fit Call will pick the first paid step — usually a fixed-price Operations Intelligence Audit — and leave System as an option only if the first project earns it.";
+        "The Fit Call will pick the first paid step — usually a fixed-price diagnostic — and leave a durable system as an option only if the first project earns it.";
     }
 
     if (hot.length === 0 && total > 4) {
@@ -349,7 +349,7 @@
     root.querySelector(".lc__shape").innerHTML =
       "<p><strong>" +
       interp.shape +
-      "</strong></p><p>This is a directional read from eight answers — not a diagnosis. The audit is where we check it against your actual data.</p>";
+      "</strong></p><p>This is a directional read from eight answers — not a diagnosis. The Fit Call is where we check it against your actual data.</p>";
     root.querySelector(".lc__audit-note").textContent = interp.auditNote;
 
     var areasEl = root.querySelector(".lc__areas");
